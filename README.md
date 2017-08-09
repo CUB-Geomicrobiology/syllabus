@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Introduction to Geomicrobiology (Fall 2017)
+# Introduction to Geomicrobiology
 
 This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class at the University of Colorado Boulder. The most up-to-date version of this document is always at https://2017-Geomicrobiology.github.io/syllabus.
 
