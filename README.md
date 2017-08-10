@@ -37,7 +37,7 @@ The course schedule including all modules, readings and assignments is available
 
 #### Readings
 
-The readings for this course will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule). Please note that the University has e-book access to both books but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
+The readings for this course will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
 - **Introduction to Geomicrobiology ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))**
 - **Ehrlich's Geomicrobiology ([CU Boulder ebook](...))**
