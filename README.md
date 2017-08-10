@@ -58,6 +58,7 @@ The overall course grades will be determined by the following components. There 
 |Team       |    20% | Team Readiness Assessment Tests (tRAT)
 |Team       |    10% | Team Assignments
 |Peer       |    10% | Team Peer Evaluations
+{:.tablestyle}
 
 ### Team Performance
 You will collaborate with your team throughout the semester. Team tests and assignments will determine the team performance component of your grade.
