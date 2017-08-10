@@ -15,7 +15,7 @@ This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class
 
 ## Description
 
-This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how the planet and microbial biosphere have co-evolved. The course uses team-based-learning (TBL) approaches and is open to both undergraduate and graduate students with senior level expectations set for both groups.
+This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how the planet and microbial biosphere have co-evolved. The course uses team-based-learning (TBL) approaches and is open to both undergraduate and graduate students.
 
 ## Structure
 
