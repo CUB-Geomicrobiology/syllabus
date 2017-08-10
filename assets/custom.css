@@ -19,7 +19,8 @@ nav[data-toggle='toc'] {
 table{
     border-collapse: collapse;
     border-spacing: 0;
-    border:2px solid #ff0000;
+    border:2px solid #000000;
+    padding: 5px;
 }
 
 th{
@@ -28,12 +29,4 @@ th{
 
 td{
     border:1px solid #000000;
-}
-
-.tablestyle {
-        border-collapse: collapse;
-
-   > table, td, th {
-        border: 1px solid black;
-        }
 }

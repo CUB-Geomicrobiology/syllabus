@@ -50,15 +50,14 @@ At least one member per team must bring a laptop to class in case of in-class ex
 
 The overall course grades will be determined by the following components. There will be no midterm or final for this course.
 
-|Type       | Weight | Activity
-|-----------|-------:|---------------------------------------------
-|Individual |    20% | Individual Readiness Assessment Tests (iRAT)
-|Individual |    30% | Term Project
-|Individual |    10% | Attendance, Participation and Homework Assignments
-|Team       |    20% | Team Readiness Assessment Tests (tRAT)
-|Team       |    10% | Team Assignments
-|Peer       |    10% | Team Peer Evaluations
-{:.tablestyle}
+| Type       | Weight | Activity                                           |
+|------------|-------:|----------------------------------------------------|
+| Individual |    20% | Individual Readiness Assessment Tests (iRAT)       |
+| Individual |    30% | Term Project                                       |
+| Individual |    10% | Attendance, Participation and Homework Assignments |
+| Team       |    20% | Team Readiness Assessment Tests (tRAT)             |
+| Team       |    10% | Team Assignments                                   |
+| Peer       |    10% | Team Peer Evaluations                              |
 
 ### Team Performance
 You will collaborate with your team throughout the semester. Team tests and assignments will determine the team performance component of your grade.
