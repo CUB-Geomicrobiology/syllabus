@@ -9,7 +9,7 @@ This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class
 
 - **Course**: Introduction to Geomicrobiology (Fall 2017, GEOL 4700-001 / GEOL-5700-010)
 - **Instructor**: Sebastian Kopf ([sebastian.kopf@colorado.edu](mailto:sebastian.kopf@colorado.edu))
-- **Office**: Benson 246C
+- **Class times**: MWF 10:00-10:50 in BESC 1B75
 - **Office hours**: By appointment (email to schedule)
 - **Prerequisites**: CHEM 113/1114, CHEM 1251/1271 or equivalent
 
