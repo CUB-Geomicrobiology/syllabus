@@ -39,8 +39,8 @@ The course schedule including all modules, readings and assignments is available
 
 The readings for this course will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule). Please note that the University has e-book access to both books but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
-- ###### Introduction to Geomicrobiology ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
-- ###### Ehrlich's Geomicrobiology ([CU Boulder ebook](...))
+- **Introduction to Geomicrobiology ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))**
+- **Ehrlich's Geomicrobiology ([CU Boulder ebook](...))**
 
 #### Computer Resources
 
@@ -50,14 +50,14 @@ At least one member per team must bring a laptop to class in case of in-class ex
 
 The overall course grades will be determined by the following components. There will be no midterm or final for this course.
 
-Type       | Weight | Activity
------------|-------:|---------------------------------------------
-Individual |    20% | Individual Readiness Assessment Tests (iRAT)
-Individual |    30% | Term Project
-Individual |    10% | Attendance, Participation and Homework Assignments
-Team       |    20% | Team Readiness Assessment Tests (tRAT)
-Team       |    10% | Team Assignments
-Peer       |    10% | Team Peer Evaluations
+|Type       | Weight | Activity
+|-----------|-------:|---------------------------------------------
+|Individual |    20% | Individual Readiness Assessment Tests (iRAT)
+|Individual |    30% | Term Project
+|Individual |    10% | Attendance, Participation and Homework Assignments
+|Team       |    20% | Team Readiness Assessment Tests (tRAT)
+|Team       |    10% | Team Assignments
+|Peer       |    10% | Team Peer Evaluations
 
 ### Team Performance
 You will collaborate with your team throughout the semester. Team tests and assignments will determine the team performance component of your grade.
