@@ -5,7 +5,7 @@ permalink: /
 
 # Syllabus
 
-This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class at the University of Colorado Boulder. The most up-to-date version of this document is always at https://2017-Geomicrobiology.github.io/syllabus.
+This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class at the University of Colorado Boulder. The most up-to-date version of this document is always at [2017-Geomicrobiology.github.io/syllabus](https://2017-Geomicrobiology.github.io/syllabus).
 
 - **Course**: Introduction to Geomicrobiology (Fall 2017, GEOL 4700-001 / GEOL-5700-010)
 - **Instructor**: Sebastian Kopf ([sebastian.kopf@colorado.edu](mailto:sebastian.kopf@colorado.edu))
@@ -19,9 +19,9 @@ This course examines how microorganisms have shaped the world around us througho
 
 ## Structure
 
-The course will comprise six modules. Each module has topic-specific learning goals, assignments and team exercises.
+The course will consist of 6 modules. Each module has topic-specific learning goals, assignments and team exercises.
 
-1. Communication and Collaboration skills: Team-based learning; providing helpful feedback.
+1. Communication and Collaboration in Team-based learning
 2. Microbial properties & diversity
 3. Microbial metabolism & energetics
 4. Microbial roles in biogeochemical cycles
@@ -31,7 +31,7 @@ The course will comprise six modules. Each module has topic-specific learning go
 
 ## Schedule
 
-The course schedule including all modules, readings and assignments is available at https://2017-Geomicrobiology.github.io/schedule. Note that the exact schedule for the modules may change as we go along. Check the above link for updates and new information throughout the semester.
+The course schedule including all modules, readings and assignments is available at [https://2017-Geomicrobiology.github.io/schedule](2017-Geomicrobiology.github.io/schedule). Note that the exact schedule for the modules may change as we go along. Check the above link for updates and new information throughout the semester.
 
 ## Materials
 
