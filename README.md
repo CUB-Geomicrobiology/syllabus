@@ -31,7 +31,7 @@ The course will consist of 6 modules. Each module has topic-specific learning go
 
 ## Schedule
 
-The course schedule including all modules, readings and assignments is available at [https://2017-Geomicrobiology.github.io/schedule](2017-Geomicrobiology.github.io/schedule). Note that the exact schedule for the modules may change as we go along. Check the above link for updates and new information throughout the semester.
+The course schedule including all modules, readings and assignments is available at [2017-Geomicrobiology.github.io/schedule](https://2017-Geomicrobiology.github.io/schedule). Note that the exact schedule for the modules may change as we go along. Check the above link for updates and new information throughout the semester.
 
 ## Materials
 
