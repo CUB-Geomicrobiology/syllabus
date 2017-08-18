@@ -37,10 +37,10 @@ The course schedule including all modules, readings and assignments is available
 
 #### Readings
 
-The readings for this course will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
+The readings for this course will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
-- **Introduction to Geomicrobiology ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))**
-- **Ehrlich's Geomicrobiology ([CU Boulder ebook](...))**
+- **Introduction to Geomicrobiology** by Kurt Konhauser, 2007 ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
+- **Ehrlich's Geomicrobiology** by Henry Lutz Ehrlich, Dianne Newman and Andreas Kappler (editors), 2016, 6th edition ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1070168&site=ehost-live&scope=site))
 
 #### Computer Resources
 
@@ -48,12 +48,13 @@ At least one member per team must bring a laptop to class in case of in-class ex
 
 ## Evaluation
 
-The overall course grades will be determined by the following components. There will be no midterm or final for this course.
+The overall course grades will be determined by the following components. There will be no final for this course.
 
 | Type       | Weight | Activity                                           |
 |------------|-------:|----------------------------------------------------|
 | Individual |    20% | Individual Readiness Assessment Tests (iRAT)       |
-| Individual |    30% | Term Project                                       |
+| Individual |    20% | Term Project                                       |
+| Individual |    10% | Midterm                                            |
 | Individual |    10% | Attendance, Participation and Homework Assignments |
 | Team       |    20% | Team Readiness Assessment Tests (tRAT)             |
 | Team       |    10% | Team Assignments                                   |
@@ -64,20 +65,19 @@ You will collaborate with your team throughout the semester. Team tests and assi
 
 ##### tRAT scoring
 
-Correct answer on | Points
-:----------------:|:-----:
-   1st choice     |   5
-   2nd choice     |   3
-   3rd choice     |   2
-   4th choice     |   1
-   5th choice     |   0
+| Correct answer on | Points |
+|:-----------------:|:------:|
+|    1st choice     |   4    |
+|    2nd choice     |   2    |
+|    3rd choice     |   1    |
+|  4th/5th choice   |   0    |
 
 ### Individual Performance
 
-Individual tests, the term project as well as attendance, participation and smaller individual assignments including feedback on writing from team members will determine the individual performance grade.
+Individual tests, the term project, midterm as well as attendance, participation and smaller individual assignments including feedback on writing from team members will determine the individual performance grade.
 
 #### Term Project
-For the individual term projects, every student will choose a geomicrobiology topic of interest and prepare a term paper (50%) based on a review of the primary scientific literature, as well as two short "Latest & Greatest" (L&G) perspective pieces (25% each) on individual publications related to the chosen topic (either on a recently published study or a classic paper). The L&Gs are an opportunity to practice and hone your critical reading and writing skills in the context of learning about your topic before writing the actual term paper. Both the L&Gs and the term paper will go through a draft-feedback-revision-submission process that includes feedback from a team member. You can choose one of the following example topics or an approved topic of your own choosing: 1) The role of microbes in acid mine drainage; 2) Microbial mineral processing; 3) Bioremediation; 4) Microbial controls on mineral deposit signatures; 5) Microbes, oil, and gas; 6) Microbial Geoengineering; 7) Terraforming. All members of a team must have a different term project topic.
+For the individual term projects, every student will choose a geomicrobiology topic of their interest and prepare a term paper (70%) based on a review of the primary scientific literature, as well as a short "Latest & Greatest" (L&G) perspective piece (30%) on a publication related to the chosen topic (either on a recently published study or a classic paper). The L&Gs are an opportunity to practice and hone your critical reading and writing skills in the context of learning about your topic before writing the actual term paper. Both the L&G and the term paper will go through a draft-feedback-revision-submission process that includes feedback from a team member. 
 
 Students are expected to bounce ideas on potential topics and journal articles for L&Gs off of their teammates. Graduate students are likely to have more experience browsing the scientific literature and are encouraged to help their teammates with the selection of suitable journal articles for their L&Gs.
 
