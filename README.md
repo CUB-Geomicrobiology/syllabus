@@ -10,24 +10,25 @@ This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class
 - **Course**: Introduction to Geomicrobiology (Fall 2017, GEOL 4700-001 / GEOL-5700-010)
 - **Instructor**: Sebastian Kopf ([sebastian.kopf@colorado.edu](mailto:sebastian.kopf@colorado.edu))
 - **Class times**: MWF 10:00-10:50 in BESC 1B75
-- **Office hours**: By appointment (email to schedule)
+- **Office hours**: For your convenience I will be available after every class. You are also welcome to [email me](mailto:sebastian.kopf@colorado.edu) for an appointment.
 - **Prerequisites**: CHEM 113/1114, CHEM 1251/1271 or equivalent
 
-## Description
+## What is this course about?
 
-This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how the planet and microbial biosphere have co-evolved. The course uses team-based-learning (TBL) approaches and is open to both undergraduate and graduate students.
+This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how we know about microbial activity in the past and present.
 
-## Structure
+## How is it different?
+
+I teach this course using active classroom and team-based-learning (TBL) methods that I hope will foster an interest in the wonderful world of geomicrobiology, but perhaps even more importantly, will prepare you to solve complex problems and make informed decisions in other life endeavors well beyond this class. It is my goal that by the end of the course, you will have honed your critical thinking and team problem solving skills; improved your ability to read, synthesize, and critically evaluate geomicrobiology literature; and gained a broad understanding of the role of microbes on our planet.
 
 The course will consist of 6 modules. Each module has topic-specific learning goals, assignments and team exercises.
 
 1. Communication and Collaboration in Team-based learning
 2. Microbial properties & diversity
 3. Microbial metabolism & energetics
-4. Microbial roles in biogeochemical cycles
+4. Microbial roles in biogeochemical cycles and how we know about them
 5. Microbe-mineral interactions
-6. Geomicrobiotechnology
-
+6. Final topic selected by the class
 
 ## Schedule
 
@@ -37,7 +38,7 @@ The course schedule including all modules, readings and assignments is available
 
 #### Readings
 
-The readings for this course will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
+Geomicrobiology is a broad, fast-evolving field that is best understood by engaging with the primary literature. Therefore, in class exercises will often be based on discussions of journal articles within and between the teams, with preparative background readings at the beginning of each module. The readings will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
 - **Introduction to Geomicrobiology** by Kurt Konhauser, 2007 ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
 - **Ehrlich's Geomicrobiology** by Henry Lutz Ehrlich, Dianne Newman and Andreas Kappler (editors), 2016, 6th edition ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1070168&site=ehost-live&scope=site))
@@ -48,17 +49,17 @@ At least one member per team must bring a laptop to class in case of in-class ex
 
 ## Evaluation
 
-The overall course grades will be determined by the following components. There will be no final for this course.
+The overall course grades will be determined by the following components. There will be no midterms and no final for this course. I will provide information on each assignment as we get to it during the semester including detailed instructions on how to complete it.
 
-| Type       | Weight | Activity                                           |
-|------------|-------:|----------------------------------------------------|
-| Individual |    20% | Individual Readiness Assessment Tests (iRAT)       |
-| Individual |    20% | Term Project                                       |
-| Individual |    10% | Midterm                                            |
-| Individual |    10% | Attendance, Participation and Homework Assignments |
-| Team       |    20% | Team Readiness Assessment Tests (tRAT)             |
-| Team       |    10% | Team Assignments                                   |
-| Peer       |    10% | Team Peer Evaluations                              |
+| Type         |      Weight | Activity                                           |
+|--------------|------------:|----------------------------------------------------|
+| Individual   |         20% | Individual Readiness Assessment Tests (iRAT)       |
+| Individual   |         30% | Term Project                                       |
+| Individual   |         10% | Attendance, Participation and Homework Assignments |
+| _Individual_ | _Bonus: 5%_ | _Geomicrobiology-related wikipedia article_        |
+| Team         |         20% | Team Readiness Assessment Tests (tRAT)             |
+| Team         |         10% | Team Assignments                                   |
+| Peer         |         10% | Team Peer Evaluations                              |
 
 ### Team Performance
 You will collaborate with your team throughout the semester. Team tests and assignments will determine the team performance component of your grade.
@@ -74,12 +75,20 @@ You will collaborate with your team throughout the semester. Team tests and assi
 
 ### Individual Performance
 
-Individual tests, the term project, midterm as well as attendance, participation and smaller individual assignments including feedback on writing from team members will determine the individual performance grade.
+Individual preparedness tests (iRATs), the term project as well as attendance, participation and individual assignments including feedback on writing from team members will determine the individual performance grade.
 
 #### Term Project
-For the individual term projects, every student will choose a geomicrobiology topic of their interest and prepare a term paper (70%) based on a review of the primary scientific literature, as well as a short "Latest & Greatest" (L&G) perspective piece (30%) on a publication related to the chosen topic (either on a recently published study or a classic paper). The L&Gs are an opportunity to practice and hone your critical reading and writing skills in the context of learning about your topic before writing the actual term paper. Both the L&G and the term paper will go through a draft-feedback-revision-submission process that includes feedback from a team member. 
+For the individual term projects, every student will choose a geomicrobiology topic of their interest and complete two written assignments related to the topic.
+
+The first will be a short "Latest & Greatest" (L&G) perspective piece (30% of the term project grade) on a publication related to the chosen topic (either on a recently published study or a classic paper). The L&Gs are an opportunity to practice and hone your critical reading and writing skills in the context of learning more about your topic of interest. 
+
+The second (70% of the term project grade) will be a term paper on your topic based on a review of the primary scientific literature for students taking the undergraduate version of this course; and a short proposal based on a research question related to your topic for students taking the graduate version of this course. Both the L&G and the term paper/proposal will go through a draft-feedback-revision-submission process that includes feedback from one or multiple members of your team.
 
 Students are expected to bounce ideas on potential topics and journal articles for L&Gs off of their teammates. Graduate students are likely to have more experience browsing the scientific literature and are encouraged to help their teammates with the selection of suitable journal articles for their L&Gs.
+
+#### Bonus wikipedia article
+
+If you choose to do this bonus assignment, you will write and publish a geomicrobiology-related Wikipedia article. The topic must still be absent or incomplete (i.e. a "stub") on Wikipedia and may be related to your term project  (but does not have to be). In place of a Wikipedia article, you may suggest creating another shareable resource.
 
 ### Peer Evaluations
 
@@ -87,7 +96,7 @@ You will provide qualitative and quantitative feedback for each of your teammate
 
 ### Late Work Policy
 
-Students and teams are responsible for handing in work on time. Work that is turned in one day late will be marked down by 25%.  Work turned in thereafter (and until the final day of class) will be marked down by 50%. No late work will be accepted after the final day of class.
+Students and teams are responsible for handing in work on time. Work that is turned in one day late (i.e. within 24 hours after the deadline) will be marked down by 25%. Work turned in up to a week late will be marked down by 50% but you must let me know when to expect your work or I will reserve the right to deduct points. If you are having trouble with an assignment, please talk with me ahead of time. No late work will be accepted more than a week after an assignment deadline or after the last day of classes.
 
 ## Tips for success
 
