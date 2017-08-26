@@ -17,8 +17,6 @@ This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class
 
 This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how we know about microbial activity in the past and present.
 
-## How is it different?
-
 I teach this course using active classroom and team-based-learning (TBL) methods that I hope will foster an interest in the wonderful world of geomicrobiology, but perhaps even more importantly, will prepare you to solve complex problems and make informed decisions in other life endeavors well beyond this class. It is my goal that by the end of the course, you will have honed your critical thinking and team problem solving skills; improved your ability to read, synthesize, and critically evaluate geomicrobiology literature; and gained a broad understanding of the role of microbes on our planet.
 
 The course will consist of 6 modules. Each module has topic-specific learning goals, assignments and team exercises.
@@ -38,7 +36,7 @@ The course schedule including all modules, readings and assignments is available
 
 #### Readings
 
-Geomicrobiology is a broad, fast-evolving field that is best understood by engaging with the primary literature. Therefore, in class exercises will often be based on discussions of journal articles within and between the teams, with preparative background readings at the beginning of each module. The readings will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
+Geomicrobiology is a broad, fast-evolving field that is best understood by engaging with the primary literature. Therefore, in class exercises will often involve  discussions of journal articles, with preparative background readings at the beginning of each module. The readings will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
 - **Introduction to Geomicrobiology** by Kurt Konhauser, 2007 ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
 - **Ehrlich's Geomicrobiology** by Henry Lutz Ehrlich, Dianne Newman and Andreas Kappler (editors), 2016, 6th edition ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1070168&site=ehost-live&scope=site))
@@ -86,9 +84,9 @@ The second (70% of the term project grade) will be a term paper on your topic ba
 
 Students are expected to bounce ideas on potential topics and journal articles for L&Gs off of their teammates. Graduate students are likely to have more experience browsing the scientific literature and are encouraged to help their teammates with the selection of suitable journal articles for their L&Gs.
 
-#### Bonus wikipedia article
+#### Bonus Article
 
-If you choose to do this bonus assignment, you will write and publish a geomicrobiology-related Wikipedia article. The topic must still be absent or incomplete (i.e. a "stub") on Wikipedia and may be related to your term project  (but does not have to be). In place of a Wikipedia article, you may suggest creating another shareable resource.
+If you choose to do the bonus assignment, you will write and publish a geomicrobiology-related Wikipedia article. The topic must still be absent or incomplete (i.e. a "stub") on Wikipedia. It may be related to your term project  (but does not have to be). In place of a Wikipedia article, you may suggest creating another shareable resource.
 
 ### Peer Evaluations
 
