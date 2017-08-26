@@ -15,18 +15,19 @@ This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class
 
 ## What is this course about?
 
-This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how we know about microbial activity in the past and present.
+This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how we know about microbial activity in the past and present. The course is designed for upper level undergraduates and graduate students.
 
 I teach this course using active classroom and team-based-learning (TBL) methods that I hope will foster an interest in the wonderful world of geomicrobiology, but perhaps even more importantly, will prepare you to solve complex problems and make informed decisions in other life endeavors well beyond this class. It is my goal that by the end of the course, you will have honed your critical thinking and team problem solving skills; improved your ability to read, synthesize, and critically evaluate geomicrobiology literature; and gained a broad understanding of the role of microbes on our planet.
 
-The course will consist of 6 modules. Each module has topic-specific learning goals, assignments and team exercises.
+The course will consist of 7 modules. Each module has topic-specific learning goals, assignments and team exercises.
 
 1. Communication and Collaboration in Team-based learning
 2. Microbial properties & diversity
 3. Microbial metabolism & energetics
-4. Microbial roles in biogeochemical cycles and how we know about them
+4. Microbial roles in biogeochemical cycles
 5. Microbe-mineral interactions
-6. Final topic selected by the class
+6. The microbial geologic record
+7. Final topic selected by the class
 
 ## Schedule
 
