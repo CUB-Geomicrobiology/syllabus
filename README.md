@@ -17,9 +17,9 @@ This is the syllabus for the Fall 2017 **Introduction to Geomicrobiology** class
 
 This course examines how microorganisms have shaped the world around us throughout Earth’s history and what role they play on our planet today. Emphasis is placed on the many ways microbes can make a living (diversity of metabolisms and habitats), how microorganisms drive key biogeochemical processes, and how we know about microbial activity in the past and present. The course is designed for upper level undergraduates and graduate students.
 
-I teach this course using active classroom and team-based-learning (TBL) methods that I hope will foster an interest in the wonderful world of geomicrobiology, but perhaps even more importantly, will prepare you to solve complex problems and make informed decisions in other life endeavors well beyond this class. It is my goal that by the end of the course, you will have honed your critical thinking and team problem solving skills; improved your ability to read, synthesize, and critically evaluate geomicrobiology literature; and gained a broad understanding of the role of microbes on our planet.
+I teach this course using active classroom and team-based-learning (TBL) methods that I hope will foster an interest in the wonderful world of geomicrobiology, but equally importantly, will prepare you to solve complex problems and make informed decisions in other life endeavors well beyond this class. It is my goal that by the end of the course, you will have honed your critical thinking and team problem solving skills; improved your ability to read, synthesize, and critically evaluate geomicrobiology literature; and gained a broad understanding of the role of microbes on our planet.
 
-The course will consist of 7 modules. Each module has topic-specific learning goals, assignments and team exercises.
+The course will consist of 7 modules. Each module has topic-specific readings, assignments and team exercises.
 
 1. Communication and Collaboration in Team-based learning
 2. Microbial properties & diversity
@@ -33,16 +33,20 @@ The course will consist of 7 modules. Each module has topic-specific learning go
 
 The course schedule including all modules, readings and assignments is available at [2017-Geomicrobiology.github.io/schedule](https://2017-Geomicrobiology.github.io/schedule). Note that the exact schedule for the modules may change as we go along. Check the above link for updates and new information throughout the semester.
 
-## Materials
+## Resources
 
 #### Readings
 
-Geomicrobiology is a broad, fast-evolving field that is best understood by engaging with the primary literature. Therefore, in class exercises will often involve  discussions of journal articles, with preparative background readings at the beginning of each module. The readings will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
+Geomicrobiology is a broad, fast-evolving field that is best understood by engaging with the primary literature. Therefore, in-class exercises will often involve  discussions of journal articles, with preparative background readings at the beginning of each module. The readings will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
 - **Introduction to Geomicrobiology** by Kurt Konhauser, 2007 ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
 - **Ehrlich's Geomicrobiology** by Henry Lutz Ehrlich, Dianne Newman and Andreas Kappler (editors), 2016, 6th edition ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1070168&site=ehost-live&scope=site))
 
-#### Computer Resources
+#### GitHub
+
+For this course we will be making extensive use of the document management and collaboration system Git and the online platform GitHub Classroom which is an extension of the popular code-sharing site GitHub. Although originally invented for collaborative projects involving computer programming, Git is a powerful general purpose collaboration tool that is used increasingly for all kinds of teamwork in industry and the arts & sciences including manuscripts, reports, websites, presentations, and code. What it is at its core is a very sophisticated system for version control which means that it keeps track of all the changes in a project and gives you the ability to always go back and revisit older versions or review what was changed when and by who. Think of it as a supercharged google docs for just about any type of text-based document or data - it's a little more involved to use at first but comes with full access and control of those behind-the-scenes features that make google docs so useful. If you've never heard of GitHub, don't panic, absolutely no prior knowledge is necessary and everything will be explained in step-by-step video tutorials posted together with [class assignments](https://2017-geomicrobiology.github.io/schedule/#readings). For this course we'll be mostly working with just the core features of GitHub but as you'll see, even just the basics are quite powerful and might come in handy in other classes or your career. If you are already familiar with GitHub, you're of course welcome to keep using whichever tools you like best to work with the platform. For the purpose of keeping access simple, the tutorials will focus on introducing web-based interactions with GitHub that don't require installing any programs on your own computer.
+
+#### Computer Access
 
 At least one member per team must bring a laptop to class in case of in-class exercises that require access to online resources. Some team assignments and most individual assignments require access to a computer with internet connection outside of class. If you do not have a personal computer, you are encouraged to make use of the computer lab in the Department of Geological Sciences. The computer lab is open M-F from 6:30am to 6pm and available to you unless it is in active use by a computing class. Should you require after-hour access to the computer lab, please send me an email and include the last 7 digits of your BuffOne card number.
 
