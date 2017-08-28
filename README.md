@@ -42,9 +42,7 @@ Geomicrobiology is a broad, fast-evolving field that is best understood by engag
 - **Introduction to Geomicrobiology** by Kurt Konhauser, 2007 ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
 - **Ehrlich's Geomicrobiology** by Henry Lutz Ehrlich, Dianne Newman and Andreas Kappler (editors), 2016, 6th edition ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1070168&site=ehost-live&scope=site))
 
-** Additional useful books **
-
-Students who have not taken any biology class recently may find it useful to have a textbook that can be used as a reference for general microbiology and chemistry. Any general introductory microbiology text will do, but an inexpensive option is: Through the microscope: A look at all things small by Timothy Paustian and Gary Roberts, which is [available online](http://www.microbiologytext.com/index.phpx) as an ebook for $30. A more comprehensive background reference is Brock Biology of Microorganisms ([a few hard copies available @ CU Boulder library](https://goo.gl/Sx2jbf)) by Madigan et al. Although the current edition is 15th ed.; older ones are still very useful (ok, back to say 7th edition).
+Students who have not taken any biology class recently may find it useful to have a textbook that can be used as a reference for general microbiology and chemistry. This is completely optional. Any general introductory microbiology text will do, but an inexpensive option is: Through the microscope: A look at all things small by Timothy Paustian and Gary Roberts, which is [available online](http://www.microbiologytext.com/index.phpx) as an ebook for $30. A more comprehensive background reference is Brock Biology of Microorganisms ([a few hard copies available @ CU Boulder library](https://goo.gl/Sx2jbf)) by Madigan et al. Although the current edition is 15th ed.; older ones are still very useful (ok, back to say 7th edition).
 
 Other useful books on geomicrobiology and environmental microbiology include the following:
 
