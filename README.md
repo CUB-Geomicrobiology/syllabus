@@ -35,18 +35,28 @@ The course schedule including all modules, readings and assignments is available
 
 ## Resources
 
-#### Readings
+### Readings
 
 Geomicrobiology is a broad, fast-evolving field that is best understood by engaging with the primary literature. Therefore, in-class exercises will often involve  discussions of journal articles, with preparative background readings at the beginning of each module. The readings will include select chapters from the books listed below, PDFs provided through Google Drive, and online resources provided by link. Details on all readings are provided on the [schedule page](https://2017-Geomicrobiology.github.io/schedule/#readings). Please note that the University has e-book access to both books (you may have to create a login with the publisher) but that simultaneous access may be limited to a finite number of users. Please coordinate with your teammates should simultaneous-use restrictions become a problem.
 
 - **Introduction to Geomicrobiology** by Kurt Konhauser, 2007 ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site))
 - **Ehrlich's Geomicrobiology** by Henry Lutz Ehrlich, Dianne Newman and Andreas Kappler (editors), 2016, 6th edition ([CU Boulder ebook](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=1070168&site=ehost-live&scope=site))
 
-#### GitHub
+** Additional useful books **
+
+Students who have not taken any biology class recently may find it useful to have a textbook that can be used as a reference for general microbiology and chemistry. Any general introductory microbiology text will do, but an inexpensive option is: Through the microscope: A look at all things small by Timothy Paustian and Gary Roberts, which is [available online](http://www.microbiologytext.com/index.phpx) as an ebook for $30. A more comprehensive background reference is Brock Biology of Microorganisms ([a few hard copies available @ CU Boulder library](https://goo.gl/Sx2jbf)) by Madigan et al. Although the current edition is 15th ed.; older ones are still very useful (ok, back to say 7th edition).
+
+Other useful books on geomicrobiology and environmental microbiology include the following:
+
+ - Aquatic Geomicrobiology by D.E. Canfield, B. Thamdrup and E. Kristensen ([Amazon link](https://www.amazon.com/Aquatic-Geomicrobiology-Advances-Marine-Biology/dp/0120261472))
+ - Environmental Microbiology, by Eugene Madsen ([CU Boulder Library link](http://libraries.colorado.edu/record=b4810569~S3))
+ - Methods for General and Molecular Microbiology, edited by C. A. Reddy et al. ([CU Boulder Library link](https://goo.gl/ybH7Fr))
+
+### GitHub
 
 For this course we will be making extensive use of the document management and collaboration system Git and the online platform GitHub Classroom which is an extension of the popular code-sharing site GitHub. Although originally invented for collaborative projects involving computer programming, Git is a powerful general purpose collaboration tool that is used increasingly for all kinds of teamwork in industry and the arts & sciences including manuscripts, reports, websites, presentations, and code. What it is at its core is a very sophisticated system for version control which means that it keeps track of all the changes in a project and gives you the ability to always go back and revisit older versions or review what was changed when and by who. Think of it as a supercharged google docs for just about any type of text-based document or data - it's a little more involved to use at first but comes with full access and control of those behind-the-scenes features that make google docs so useful. If you've never heard of GitHub, don't panic, absolutely no prior knowledge is necessary and everything will be explained in step-by-step video tutorials posted together with [class assignments](https://2017-geomicrobiology.github.io/schedule/#readings). For this course we'll be mostly working with just the core features of GitHub but as you'll see, even just the basics are quite powerful and might come in handy in other classes or your career. If you are already familiar with GitHub, you're of course welcome to keep using whichever tools you like best to work with the platform. For the purpose of keeping access simple, the tutorials will focus on introducing web-based interactions with GitHub that don't require installing any programs on your own computer.
 
-#### Computer Access
+### Computer Access
 
 At least one member per team must bring a laptop to class in case of in-class exercises that require access to online resources. Some team assignments and most individual assignments require access to a computer with internet connection outside of class. If you do not have a personal computer, you are encouraged to make use of the computer lab in the Department of Geological Sciences. The computer lab is open M-F from 6:30am to 6pm and available to you unless it is in active use by a computing class. Should you require after-hour access to the computer lab, please send me an email and include the last 7 digits of your BuffOne card number.
 
