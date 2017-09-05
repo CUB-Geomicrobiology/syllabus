@@ -64,11 +64,11 @@ The overall course grades will be determined by the following components. There 
 
 | Type         |      Weight | Activity                                           |
 |--------------|------------:|----------------------------------------------------|
-| Individual   |         20% | Individual Readiness Assessment Tests (iRAT)       |
+| Individual   | ~~20%~~ 15% | Individual Readiness Assessment Tests (iRAT)       |
 | Individual   |         30% | Term Project                                       |
 | Individual   |         10% | Attendance, Participation and Homework Assignments |
 | _Individual_ | _Bonus: 5%_ | _Geomicrobiology-related wikipedia article_        |
-| Team         |         20% | Team Readiness Assessment Tests (tRAT)             |
+| Team         | ~~20%~~ 25% | Team Readiness Assessment Tests (tRAT)             |
 | Team         |         10% | Team Assignments                                   |
 | Peer         |         10% | Team Peer Evaluations                              |
 
@@ -76,6 +76,8 @@ The overall course grades will be determined by the following components. There 
 You will collaborate with your team throughout the semester. Team tests and assignments will determine the team performance component of your grade.
 
 ##### tRAT scoring
+
+Missed tRATs: the teams decided that team members who miss a tRAT will be given their team's tRAT score provided that they inform their team and instructor about their absence before class.
 
 | Correct answer on | Points |
 |:-----------------:|:------:|
@@ -87,6 +89,8 @@ You will collaborate with your team throughout the semester. Team tests and assi
 ### Individual Performance
 
 Individual preparedness tests (iRATs), the term project as well as attendance, participation and individual assignments including feedback on writing from team members will determine the individual performance grade.
+
+Missed iRATs: the teams decided that team members who miss an iRAT can take their iRAT later if they give their team and instructor 12 hour advance notice about missing a RAP class or in case of medical emergencies. The student has to coordinate with the instructor to make up the iRAT as soon as possible and is not discuss the test with their team or classmates before taking it themselves.
 
 #### Term Project
 For the individual term projects, every student will choose a geomicrobiology topic of their interest and complete two written assignments related to the topic.
